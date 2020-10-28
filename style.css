@@ -1,12 +1,9 @@
 /*
-Theme Name: colibri-wp-child
+Theme Name: colibrii-wp-child
 Description: Дочерняя тема для темы colibri-wp
 Author: rachok
 Template: colibri-wp
+Version:  1.0.0
 */
 
 @import url("../colibri-wp/style.css");
-
-#site-title a {
-    color: red;
-}
