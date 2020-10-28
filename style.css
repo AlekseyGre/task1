@@ -1,0 +1,12 @@
+/*
+Theme Name: colibri-wp-child
+Description: Дочерняя тема для темы colibri-wp
+Author: rachok
+Template: colibri-wp
+*/
+
+@import url("../colibri-wp/style.css");
+
+#site-title a {
+    color: red;
+}
